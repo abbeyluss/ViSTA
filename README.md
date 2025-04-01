@@ -1,6 +1,6 @@
 # Vision-Informed Semantic Tagging and Annotator (ViSTA)
 
-This repository is primarily aimed at processing undigitized images from the Digital Repository Service (DRS) at Northeastern University. This project leverages multi-model VLM models (Gemini Pro 1.5, Claude Sonnet/Opus) to tag images with key metadata (ie: titles, abstracts, and subjects), contributing to Northeastern's Digital Repository Archives.
+This repository is primarily aimed at processing undigitized images from the Digital Repository Service (DRS) at Northeastern University. This project leverages multi-model VLM models (Gemini Flash 2.0, Claude Sonnet/Opus) to tag images with key metadata (ie: titles, abstracts, and subjects), contributing to Northeastern's Digital Repository Archives.
 
 This repository is open for use by anyone interested in metadata tagging and annotation, including but not limited to libraries, archives, and other literary organizations.
 
